@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+    color: #fdffff;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+input {
+    font-size: 30px;
+}
+
+button {
+    padding: 6px 20px;
+    background-color: gray;
+    color: lightgreen;
+    margin-left: 3px;
+    position: relative;
+    bottom: 5px;
+}
